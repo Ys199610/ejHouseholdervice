@@ -56,6 +56,9 @@ html,body,.container {
 	line-height: 2em;
 	margin-bottom: .5em;
 }
+.container > .right >.content >.mb_nav > div{
+	display: none;
+}
 
 
 
